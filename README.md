@@ -1,0 +1,2 @@
+# practicals
+msc it practicals
